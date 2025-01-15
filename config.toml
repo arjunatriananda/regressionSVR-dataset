@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FF6347"          # Contoh: Warna utama
+backgroundColor = "#F0F0F0"       # Contoh: Latar belakang aplikasi
+secondaryBackgroundColor = "#FFFFFF"  # Contoh: Latar belakang elemen
+textColor = "#000000"             # Contoh: Warna teks
+font = "sans serif"               # Font pilihan
